@@ -28,7 +28,7 @@
 
 모델의 학습 데이터셋 정확도와 테스트 데이터셋 정확도는 다음과 같음
 
-![asdf](train_loss_chart.png)
+![asdf](model_accuracy.png)
 
 ***
 
